@@ -4,8 +4,6 @@ A responsive clone of the Facebook login page built with **React** and **Tailwin
 
 ## 🖼 Preview
 
-![Facebook Clone Screenshot](./src/assets/facebook.svg)
-
 > "Facebook helps you connect and share with the people in your life."
 
 ---
@@ -30,4 +28,3 @@ A responsive clone of the Facebook login page built with **React** and **Tailwin
 ---
 
 ## 📂 Project Structure
-
