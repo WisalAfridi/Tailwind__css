@@ -1,12 +1,33 @@
-# React + Vite
+# Facebook Landing Page Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive clone of the Facebook login page built with **React** and **Tailwind CSS**, designed to closely mimic the look and feel of the original layout.
 
-Currently, two official plugins are available:
+## 🖼 Preview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![Facebook Clone Screenshot](./src/assets/facebook.svg)
 
-## Expanding the ESLint configuration
+> "Facebook helps you connect and share with the people in your life."
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🚀 Features
+
+- Responsive layout with Tailwind CSS
+- Facebook branding and design
+- Input fields for email/phone and password
+- Login button with hover effects
+- Forgot password link
+- Create New Page and account prompt
+
+---
+
+## 🛠️ Built With
+
+- [React](https://reactjs.org/) – JavaScript library for building user interfaces
+- [Vite](https://vitejs.dev/) – Fast frontend build tool
+- [Tailwind CSS](https://tailwindcss.com/) – Utility-first CSS framework
+
+---
+
+## 📂 Project Structure
+
